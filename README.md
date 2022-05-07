@@ -20,6 +20,22 @@ The project consists of a learning platform for students to enroll and watch cou
 
 Developed during a bonus class of the ReactJS trail of Ignite focusing on GraphQL.
 
+## 💻 Features
+
+Purchases Service
+- [Admin] Create products
+- [Admin] List products
+- [Auth] List of purchases
+- [Public] Buy a product
+- [Public] List available products to buy
+
+Classroom Service
+- [Admin] List enrollments
+- [Admin] List students
+- [Admin] List courses
+- [Admin] Create courses
+- [Auth] List courses i have access to
+- [Auth] Access content of course
 
 
 ## 🧪 Technologies for Backend
@@ -28,6 +44,7 @@ This project was developed using the following technologies:
 
 - [Node JS](https://nodejs.org/en/)
 - [Nest JS](https://nestjs.com/)
+- [Apache Kafka](https://kafka.apache.org/)
 - [GraphQL](https://graphql.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Prisma](https://www.prisma.io/)
